@@ -1,9 +1,14 @@
 # RGC_Counting
 Semi-automated MATLAB cell counting algorithm for densely packed, overlapping retinal ganglion cells from fixed retinal flat mounts
+
 Calvin J. Kersbergen, 20171117
+
 ckersbe1@jhmi.edu
+
 Calabresi Lab
+
 Johns Hopkins University School of Medicine, Department of Neurology
+
 Matlab R2017b
 
 This is a semi-automated cell counting algorithm optimized for 
